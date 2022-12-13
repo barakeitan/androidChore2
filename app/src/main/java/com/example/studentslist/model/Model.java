@@ -1,6 +1,6 @@
-package com.example.class2demo2.model;
+package com.example.studentslist.model;
 
-import com.example.class2demo2.R;
+import com.example.studentslist.R;
 
 import java.util.LinkedList;
 import java.util.List;

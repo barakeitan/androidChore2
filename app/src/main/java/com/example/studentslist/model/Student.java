@@ -1,4 +1,4 @@
-package com.example.class2demo2.model;
+package com.example.studentslist.model;
 
 import android.graphics.drawable.Drawable;
 
